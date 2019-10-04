@@ -1,0 +1,18 @@
+Graphs for partitioning:
+
+
+graphs=( /zfs/safrolab/users/rshaydu/safro_potentially_hard/vsp_msc10848_300sep_100in_1Kout.graph 
+         /zfs/safrolab/users/rshaydu/walshaw_archive/graphs/4elt.graph 
+         /zfs/safrolab/users/rshaydu/walshaw_archive/graphs/bcsstk30.graph 
+         /zfs/safrolab/users/rshaydu/walshaw_archive/graphs/cti.graph 
+         /zfs/safrolab/users/rshaydu/walshaw_archive/graphs/data.graph )
+
+
+Graphs for modularity clustering:
+
+graphs=( /home/rshaydu/quantum/multilevel/multilevel_quantum/data/clustering/roadNet-PA_subgraph_20000.txt
+         /home/rshaydu/quantum/multilevel/multilevel_quantum/data/clustering/opsahl-powergrid.txt
+         /home/rshaydu/quantum/multilevel/multilevel_quantum/data/clustering/msc23052.txt
+         /home/rshaydu/quantum/multilevel/multilevel_quantum/data/clustering/GirvanNewman.txt
+         /home/rshaydu/quantum/multilevel/multilevel_quantum/data/clustering/finan512_subgraph_10000.txt
+         /home/rshaydu/quantum/multilevel/multilevel_quantum/data/clustering/lancichinetti1.txt )
