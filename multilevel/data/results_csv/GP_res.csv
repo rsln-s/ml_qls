@@ -1,0 +1,77 @@
+Graph,D-Wave subproblem size 20 min obj,D-Wave subproblem size 20 median obj,D-Wave subproblem size 20 stdev obj,D-Wave subproblem size 20 min niter,D-Wave subproblem size 20 median niter,D-Wave subproblem size 20 stdev niter,D-Wave subproblem size 64 min obj,D-Wave subproblem size 64 median obj,D-Wave subproblem size 64 stdev obj,D-Wave subproblem size 64 min niter,D-Wave subproblem size 64 median niter,D-Wave subproblem size 64 stdev niter,KaHIP min obj,KaHIP median obj,KaHIP stdev obj,KaHIP min niter,KaHIP median niter,KaHIP stdev niter,Optimal subproblem size 20 min obj,Optimal subproblem size 20 median obj,Optimal subproblem size 20 stdev obj,Optimal subproblem size 20 min niter,Optimal subproblem size 20 median niter,Optimal subproblem size 20 stdev niter,Optimal subproblem size 64 min obj,Optimal subproblem size 64 median obj,Optimal subproblem size 64 stdev obj,Optimal subproblem size 64 min niter,Optimal subproblem size 64 median niter,Optimal subproblem size 64 stdev niter,QAOA (IBMQ Poughkeepsie) subproblem size 20 min obj,QAOA (IBMQ Poughkeepsie) subproblem size 20 median obj,QAOA (IBMQ Poughkeepsie) subproblem size 20 stdev obj,QAOA (IBMQ Poughkeepsie) subproblem size 20 min niter,QAOA (IBMQ Poughkeepsie) subproblem size 20 median niter,QAOA (IBMQ Poughkeepsie) subproblem size 20 stdev niter,QAOA (simulator) subproblem size 20 min obj,QAOA (simulator) subproblem size 20 median obj,QAOA (simulator) subproblem size 20 stdev obj,QAOA (simulator) subproblem size 20 min niter,QAOA (simulator) subproblem size 20 median niter,QAOA (simulator) subproblem size 20 stdev niter
+4elt,144,147.5,18.9971050426111,49,53.0,4.833218389437828,145,148.0,14.60958589419974,42,45.5,2.33238075793812,148,172.5,14.58115221784616,-1,-1.0,0.0,145,146.0,0.7000000000000001,50,51.5,1.8330302779823362,147,147.0,7.5,49,49.5,5.3,171,171.0,0.0,67,67.0,0.0,165,214.5,38.14760805083328,56,62.0,4.123105625617661
+bcsstk30,6589,6589.0,0.0,56,57.0,0.5385164807134504,6409,6409.0,1292.1000000000001,51,53.0,0.8944271909999159,6493,6564.0,2783.9244763462957,-1,-1.0,0.0,6408,6408.0,0.0,64,68.0,1.8330302779823358,8666,8666.0,0.0,55,67.0,5.075431016179809,6416,6416.0,0.0,87,87.0,0.0,6409,9016.5,2309.918753982486,68,74.0,4.290687590584987
+cti,411,411.0,0.0,65,65.0,0.0,338,481.0,72.36960688023667,54,57.0,2.870540018881465,371,387.5,34.12052168417124,-1,-1.0,0.0,417,417.0,0.0,54,58.0,1.9595917942265424,403,410.0,2.0999999999999996,52,58.0,4.004996878900157,378,378.0,0.0,78,78.0,0.0,401,432.5,73.88748202503588,53,70.0,7.529276193632426
+data,309,310.0,0.4,43,43.0,0.0,241,241.0,0.0,30,30.0,0.0,199,228.5,11.412274094149685,-1,-1.0,0.0,222,222.0,0.0,39,39.0,0.0,280,280.0,0.0,35,39.0,4.995998398718719,270,270.0,0.0,54,54.0,0.0,208,216.0,21.597222043586992,43,46.5,2.821347195933177
+vsp_msc10848_300sep_100in_1Kout,738,738.0,0.0,78,79.0,1.2489995996796797,737,737.0,0.0,56,57.0,0.6403124237432849,737,737.0,3824.02775094533,-1,-1.0,0.0,738,738.0,0.0,79,83.0,1.4966629547095764,737,737.0,0.0,61,69.0,4.995998398718719,738,738.0,0.0,93,93.0,0.0,738,738.0,0.0,80,87.0,5.166236541235795
+raw results
+D-Wave subproblem size 20,4elt,obj,148,146,151,199,150,147,190,147,144,147
+D-Wave subproblem size 20,4elt,iter,50,58,49,56,58,49,60,50,50,62
+D-Wave subproblem size 20,bcsstk30,obj,6589,6589,6589,6589,6589,6589,6589,6589,6589,6589
+D-Wave subproblem size 20,bcsstk30,iter,57,58,57,57,57,56,57,57,57,56
+D-Wave subproblem size 20,cti,obj,411,411,411,411,411,411,411,411,411,411
+D-Wave subproblem size 20,cti,iter,65,65,65,65,65,65,65,65,65,65
+D-Wave subproblem size 20,data,obj,310,310,309,309,310,310,310,310,310,310
+D-Wave subproblem size 20,data,iter,43,43,43,43,43,43,43,43,43,43
+D-Wave subproblem size 20,SSS12,obj,738,738,738,738,738,738,738,738,738,738
+D-Wave subproblem size 20,SSS12,iter,78,78,81,80,81,78,80,78,80,78
+D-Wave subproblem size 64,4elt,obj,146,148,177,177,146,148,146,145,176,175
+D-Wave subproblem size 64,4elt,iter,49,43,45,44,45,50,46,46,46,42
+D-Wave subproblem size 64,bcsstk30,obj,6409,6409,6409,6409,10716,6409,6409,6409,6409,6409
+D-Wave subproblem size 64,bcsstk30,iter,53,52,54,53,51,53,54,54,53,53
+D-Wave subproblem size 64,cti,obj,482,341,338,491,482,480,494,494,340,340
+D-Wave subproblem size 64,cti,iter,57,59,54,56,57,61,63,63,57,57
+D-Wave subproblem size 64,data,obj,241,241,241,241,241,241,241,241,241,241
+D-Wave subproblem size 64,data,iter,30,30,30,30,30,30,30,30,30,30
+D-Wave subproblem size 64,SSS12,obj,737,737,737,737,737,737,737,737,737,737
+D-Wave subproblem size 64,SSS12,iter,58,58,57,56,58,57,57,58,57,57
+KaHIP,4elt,obj,158,184,190,173,190,171,148,173,148,172
+KaHIP,4elt,iter,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+KaHIP,bcsstk30,obj,6536,6493,6565,6543,6565,6563,15841,6539,6604,6652
+KaHIP,bcsstk30,iter,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+KaHIP,cti,obj,456,458,380,407,380,380,388,371,387,456
+KaHIP,cti,iter,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+KaHIP,data,obj,206,209,229,228,229,199,216,232,229,229
+KaHIP,data,iter,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+KaHIP,SSS12,obj,737,737,8602,8602,737,737,737,8320,737,8640
+KaHIP,SSS12,iter,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Optimal subproblem size 20,4elt,obj,145,147,145,145,146,146,146,146,147,146
+Optimal subproblem size 20,4elt,iter,50,53,54,54,50,50,54,50,53,50
+Optimal subproblem size 20,bcsstk30,obj,6408,6408,6408,6408,6408,6408,6408,6408,6408,6408
+Optimal subproblem size 20,bcsstk30,iter,68,64,68,68,64,68,68,68,64,68
+Optimal subproblem size 20,cti,obj,417,417,417,417,417,417,417,417,417,417
+Optimal subproblem size 20,cti,iter,54,58,58,58,54,58,58,58,54,54
+Optimal subproblem size 20,data,obj,222,222,222,222,222,222,222,222,222,222
+Optimal subproblem size 20,data,iter,39,39,39,39,39,39,39,39,39,39
+Optimal subproblem size 20,SSS12,obj,738,738,738,738,738,738,738,738,738,738
+Optimal subproblem size 20,SSS12,iter,84,80,83,83,83,83,79,83,83,83
+Optimal subproblem size 64,4elt,obj,147,147,147,147,147,147,172,147,147,147
+Optimal subproblem size 64,4elt,iter,53,61,49,49,49,49,50,61,61,49
+Optimal subproblem size 64,bcsstk30,obj,8666,8666,8666,8666,8666,8666,8666,8666,8666,8666
+Optimal subproblem size 64,bcsstk30,iter,55,63,55,67,67,67,63,67,71,67
+Optimal subproblem size 64,cti,obj,410,403,410,410,410,410,410,410,410,410
+Optimal subproblem size 64,cti,iter,54,52,58,58,54,58,62,66,54,58
+Optimal subproblem size 64,data,obj,280,280,280,280,280,280,280,280,280,280
+Optimal subproblem size 64,data,iter,39,47,35,39,35,35,35,47,39,47
+Optimal subproblem size 64,SSS12,obj,737,737,737,737,737,737,737,737,737,737
+Optimal subproblem size 64,SSS12,iter,73,65,73,61,65,65,73,61,73,73
+QAOA (IBMQ Poughkeepsie) subproblem size 20,4elt,obj,171
+QAOA (IBMQ Poughkeepsie) subproblem size 20,4elt,iter,67
+QAOA (IBMQ Poughkeepsie) subproblem size 20,bcsstk30,obj,6416
+QAOA (IBMQ Poughkeepsie) subproblem size 20,bcsstk30,iter,87
+QAOA (IBMQ Poughkeepsie) subproblem size 20,cti,obj,378
+QAOA (IBMQ Poughkeepsie) subproblem size 20,cti,iter,78
+QAOA (IBMQ Poughkeepsie) subproblem size 20,data,obj,270
+QAOA (IBMQ Poughkeepsie) subproblem size 20,data,iter,54
+QAOA (IBMQ Poughkeepsie) subproblem size 20,SSS12,obj,738
+QAOA (IBMQ Poughkeepsie) subproblem size 20,SSS12,iter,93
+QAOA (simulator) subproblem size 20,4elt,obj,181,239,227,311,220,165,211,218,209,185
+QAOA (simulator) subproblem size 20,4elt,iter,56,64,63,58,69,63,61,57,68,61
+QAOA (simulator) subproblem size 20,bcsstk30,obj,9244,11699,6441,12870,6414,8789,9361,6409,6414,11094
+QAOA (simulator) subproblem size 20,bcsstk30,iter,69,69,79,76,75,68,78,70,73,80
+QAOA (simulator) subproblem size 20,cti,obj,665,489,419,428,417,407,437,401,445,440
+QAOA (simulator) subproblem size 20,cti,iter,69,73,61,75,82,66,53,67,72,71
+QAOA (simulator) subproblem size 20,data,obj,208,277,250,219,216,226,216,208,208,208
+QAOA (simulator) subproblem size 20,data,iter,48,53,45,46,48,46,43,51,47,45
+QAOA (simulator) subproblem size 20,SSS12,obj,738,738,738,738,738,738,738,738,738,738
+QAOA (simulator) subproblem size 20,SSS12,iter,91,87,88,85,85,87,99,80,87,80
